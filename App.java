@@ -1,1 +1,1 @@
-public class App { public static void main(String[] args) { System.out.println("Hello world!"); } } 
+import java.util.Scanner; public class App { public static void main(String[] args) { Scanner sc = new Scanner(System.in); System.out.print("Adçnçzç girin: "); String ad = sc.nextLine(); System.out.println("Merhaba " + ad); } } 
